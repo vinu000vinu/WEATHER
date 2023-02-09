@@ -1,0 +1,24 @@
+body{
+    background-image:url(WEATHER.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center{
+    display:flex;
+    justify-content: center;
+}
+.y{
+    display:flex;
+    justify-content:center;
+    color:aqua;
+}
+.box{
+    
+    display:flex;
+    justify-content:center;
+}
+.op{
+    display:flex;
+    justify-content:space-around;
+    color:rgb(60, 254, 21);
+}
